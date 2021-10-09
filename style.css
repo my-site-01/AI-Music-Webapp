@@ -1,0 +1,28 @@
+.heading {
+    width: 70%;
+    font-size: 23px;
+    margin: 0px;
+    box-shadow: 5px 5px 18px black;
+    margin-left: 15%;
+    margin-top: 10px;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+#song_button {
+    text-align: center;
+    margin-left: 45%;
+    font-size: 20px;
+}
+
+canvas {
+    border: solid 4px white;
+    box-shadow: 5px 5px 18px orangered;
+}
+
+body {
+    background-size:cover;
+}
